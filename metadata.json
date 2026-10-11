@@ -1,0 +1,8 @@
+{
+  "name": "marmoris",
+  "description": "Premium online store for bags, clothes, and jewelry with a modern Glassmorphism design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
